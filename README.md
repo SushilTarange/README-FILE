@@ -37,9 +37,9 @@ const TarangeSushil = {
   location     : "India 🇮🇳",
   portfolio    : "https://sushiltarange.dypcoeiincubationcentre.com",
 
-  languages    : ["Java", "JavaScript", "Python", "C", "PHP"],
+  languages    : ["Java", "JavaScript", "Python", "C"],
   frontend     : ["React", "HTML5", "CSS3", "Bootstrap", "Figma"],
-  backend      : ["Spring Boot", "Node.js", "Express.js", "Django", ".NET"],
+  backend      : ["Spring Boot", "Node.js", "Express.js"],
   databases    : ["MySQL", "PostgreSQL", "MongoDB", "Oracle", "MSSQL"],
   cloud        : ["AWS", "GCP", "Docker", "Kubernetes", "Linux"],
 
