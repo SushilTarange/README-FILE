@@ -86,8 +86,7 @@ const TarangeSushil = {
   <img src="https://img.shields.io/badge/Spring_Boot-111827?style=flat-square&logo=springboot&logoColor=4ade80" />
   <img src="https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=4ade80" />
   <img src="https://img.shields.io/badge/Express-111827?style=flat-square&logo=express&logoColor=e2e8f0" />
-  <img src="https://img.shields.io/badge/Django-111827?style=flat-square&logo=django&logoColor=4ade80" />
-  <img src="https://img.shields.io/badge/.NET-111827?style=flat-square&logo=dotnet&logoColor=a78bfa" />
+  
 </td>
 </tr>
 </tbody>
