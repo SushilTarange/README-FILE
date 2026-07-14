@@ -50,7 +50,7 @@ const TarangeSushil = {
   availableFor : ["Full-time Roles 💼", "Internships 🎓", "Open Source 🌍"],
   funFact      : "I debug with console.log and I'm proud of it 😄",
 
-  motto        : "First, solve the problem. Then, write the code.",
+  
 };
 ```
 
