@@ -41,7 +41,7 @@ const TarangeSushil = {
   frontend     : ["React", "HTML5", "CSS3", "Bootstrap", "Figma"],
   backend      : ["Spring Boot", "Node.js", "Express.js"],
   databases    : ["MySQL", "PostgreSQL", "MongoDB", "Oracle", "MSSQL"],
-  cloud        : ["AWS", "GCP", "Docker", "Kubernetes", "Linux"],
+ 
 
   currentFocus : "Production-grade full-stack web applications",
   learning     : ["System Design", "Microservices Architecture", "DevOps"],
